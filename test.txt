@@ -1,1 +1,21 @@
-text
+# Projekt- todo
+
+## 1. Oversigt
+Denne rapport opsummerer fremdriften for **Q4 Digital Transformation-projektet**.
+
+## 2. Milepæle
+- ✅ Fase 1: Kravspecifikation afsluttet  
+- 🚧 Fase 2: Udvikling igang (forventes færdig **30. november 2025**)  
+- ⏳ Fase 3: Test og validering  
+
+## 3. Ressourceforbrug
+| Ressource | Budgeteret (DKK) | Forbrugt (DKK) | Afvigelse |
+|------------|------------------|----------------|------------|
+| Udvikling  | 500.000          | 420.000        | -80.000    |
+| Design     | 150.000          | 130.000        | -20.000    |
+| QA/Test    | 100.000          | 20.000         | -80.000    |
+
+## 4. Næste skridt
+1. Afslutte API-integrationer  
+2. Udføre intern test  
+3. Forberede præsentation til styregruppen  
