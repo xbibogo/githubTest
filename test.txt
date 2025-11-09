@@ -2,10 +2,10 @@
 
 ## 1. Oversigt
 Denne rapport opsummerer fremdriften for **Q4 Digital Transformation-projektet**.
-
-## 2. Milepæle-xxx bbbb
+s
+## 2. Milepæle-xxx bbbbxx
 - ✅ Fase 1: Kravspecifikation afsluttet  
-- 🚧 Fase 2: Udvikling igang (forventes færdig **30. november 2025**)  
+- 🚧 Fase 2: Udvikling igang (fsorventes færdig **30. november 2025**)  
 - ⏳ Fase 3: Test og validering  
 
 ## 3. Ressourceforbrug
